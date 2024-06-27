@@ -1,0 +1,35 @@
+.NavMenu{
+    margin:auto;
+    width: 80%;
+    padding :0%;
+    border : 1px solid rgb(179, 65, 0);
+    
+}
+
+ul.menu{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    
+}
+
+li.menu{
+    display:inline-table;
+}
+
+
+.button{
+    text-decoration: none;
+    color :aliceblue;
+    display : inline-flex;
+    background-color:  rgb(243, 123, 53)
+}
+.button:hover{
+    background-color: rgb(221, 122, 42);
+}
+
+
+body{
+    margin : 0px;
+}
+
